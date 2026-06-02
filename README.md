@@ -1,32 +1,22 @@
 
 <p align="center">
-· · · · ─ ·✶· ─ · · · · ─ ୨ ♡ ୧ ─ · · · · ─ ·✶· ─ · · · ·
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
 </p>
 
 <p align="center">Welcome to my Github Profile!!</p>
-
-<br>
-
-<p align="center">꒰ა 𓂋 ໒꒱</p>
-
-<br>
-
+<p align="center">꒰ა 𓂋 ໒꒱ </p>
 <p align="center">⟡ About Me ⟡</p>
 
-
-
 <p align="center">
-· · · · ─ ·✶· ─ · · · · ─ ·✶· ─ · · · · ─ ·✶· ─ · · · ·
+· · ────── ꒰ঌ·✦·໒꒱ ────── · · 
 </p>
 
 <p align="center">
-    ➜ Hobbyist programmer seeking employment 
-    currently learning  Web Technologies.
+    ➜ Hobbyist currently learning  Web Technologies.
 </p>
 
 <p align="center">
-    ➜  Primarily code in Javascript nowadays but I also used
-    stuff like: C, Lua, Nix, Python and Rust in the past
+    ➜  Code in Javascript but used: C, Lua, Nix, Python and Rust
 </p>
 
 <p align="center">
@@ -36,13 +26,5 @@
 <p align="center"> ➜ Arch user (sorry not sorry)</p>
 
 <p align="center">
-· · · · ─ ·✶· ─ · · · · ─ ·✶· ─ · · · · ─ ·✶· ─ · · · ·
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
 </p>
-
-
-
-
-
-<p style=" 
-font-size: 32px;
-text-align:center">𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃</p>
