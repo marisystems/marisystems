@@ -4,7 +4,7 @@
 </p>
 
 <p style=
-"text-align:center;
+"align:center;
 font-weight:bold;
 font-size: 28px">Welcome to my Github Profile!!</p>
 
