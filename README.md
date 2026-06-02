@@ -3,10 +3,7 @@
 · · · · ─ ·✶· ─ · · · · ─ ୨ ♡ ୧ ─ · · · · ─ ·✶· ─ · · · ·
 </p>
 
-<p style=
-"align:center;
-font-weight:bold;
-font-size: 28px">Welcome to my Github Profile!!</p>
+<p align=center">Welcome to my Github Profile!!</p>
 
 <br>
 
